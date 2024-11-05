@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://itosoepa.github.io/PVM/sitemap_index.txt
+Sitemap: https://itosoepa.github.io/Qpk/sitemap_index.txt
+Sitemap: https://itosoepa.github.io/TON/sitemap_index.txt
+Sitemap: https://itosoepa.github.io/frM/sitemap_index.txt
